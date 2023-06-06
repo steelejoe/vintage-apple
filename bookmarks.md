@@ -9,6 +9,8 @@ https://gtello.pagesperso-orange.fr/pb520c_e.htm
 https://www.appleoldies.ca/kix/KIX.txt
 https://archive.org/search?query=Apple+2
 https://archive.org/search?query=Powerbook
+https://ecommons.cornell.edu/handle/1813/39152
+https://eamon.wiki/Caltech_Apple_II_Archive
 
 ## Hardware
 https://www.bigmessowires.com/mac-rom-inator/
@@ -36,6 +38,14 @@ http://kalleboo.com/retrotech/powerbook-540c/usbc.html
 https://imgur.com/a/isYtmHF
 https://github.com/dschmenk/PLASMA
 https://infinitemac.org/
+https://archive.org/details/softwarelibrary_apple
+https://archive.org/details/softwarelibrary_apple_games
+https://www.apple.asimov.net/
+https://www.macintoshrepository.org/43133-asimov-apple-ii-archive-collection
+http://www.applearchives.com/software/the-treasure-chest-project/apple-ii-software/
+https://www.majorgeeks.com/files/details/apple_ii_disk_image_collection.html
+https://www.computinghistory.org.uk/cgi/archive.pl?type=Software&platform=apple%20II
+https://obsolete.macfixer.com/vintage-software/
 
 ## Auctions
 https://buyee.jp/
@@ -104,3 +114,4 @@ https://www.ebay.com/itm/195580734833
 https://vintageapple.org/collection/index.html
 https://social.vcfed.org/@vintageapparatus#
 https://prodos8.com/apple2infinitum/
+https://techxplore.com/news/2023-02-core-apple-archive.html
