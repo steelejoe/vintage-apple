@@ -7,6 +7,8 @@ https://www.applerepairmanuals.com/the_manuals_are_in_here/PowerBook_500_Series.
 https://everymac.com/systems/apple/powerbook/specs/mac_powerbook540c.html
 https://gtello.pagesperso-orange.fr/pb520c_e.htm
 https://www.appleoldies.ca/kix/KIX.txt
+https://archive.org/search?query=Apple+2
+https://archive.org/search?query=Powerbook
 
 ## Hardware
 https://www.bigmessowires.com/mac-rom-inator/
